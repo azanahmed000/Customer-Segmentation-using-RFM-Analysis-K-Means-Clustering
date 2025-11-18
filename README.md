@@ -1,4 +1,7 @@
 # Customer-Segmentation-using-RFM-Analysis-K-Means-Clustering
+
+# Dataset link:https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
+
 This project uses **RFM analysis** (Recency, Frequency, Monetary) and **K-Means clustering** to segment customers based on their purchasing behavior.
 
 ## Steps
